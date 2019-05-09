@@ -42,7 +42,7 @@ variables:
   - name: tag_color
     description: Tag color
     default: red
-    type_hint: text
+    type_hint: dropdown
     dd_list:
       - key: blue
         value: color3
