@@ -46,8 +46,6 @@ variables:
     dd_list:
       - key: blue
         value: color3
-      - key: red
-        value: color1
       - key: orange
         value: color6
   - name: tag_description
